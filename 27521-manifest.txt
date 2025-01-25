@@ -1,0 +1,51 @@
+File Manifest for ICPSR 27521
+
+Thompson, Melissa. Gender, Mental Illness, and Crime in the United States,
+2004. ICPSR27521-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2011-02-10.
+http://doi.org/10.3886/ICPSR27521.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    27521-descriptioncitation.pdf       -       -         -       2014-07-04  -
+
+    27521-related_literature.txt        -       -         -       daily       -
+
+    27521-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Gender, Mental Illness, and Crime in the United States, 2004
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    27521-0001-Codebook.pdf             -       -         -       2011-02-10  78ef6829684bdfdd2197fae54a427df7
+
+    27521-0001-Data.dta                 -       55,602    3011    2011-02-10  668135e0277a5834d4bf8f6072d8c85e
+
+    27521-0001-Data.sav                 -       55,602    3011    2011-02-10  bd3d77f401dd477c10f2a354b5ad0c8e
+
+    27521-0001-Data.stc                 -       55,602    3011    2011-02-10  add955f6dd05fe14072e2163cd67f3d3
+
+    27521-0001-Data.tsv                 -       55,602    3011    2011-02-10  befad052b1458292f793b7f94d29cfee
+
+    27521-0001-Data.txt                 5897    55,602    3011    2011-02-10  ffda12701a972ec6699d035b8b7fb9d9
+
+    27521-0001-Setup.dct                -       -         -       2011-02-10  9512233d84851a87949152c75abc3d25
+
+    27521-0001-Setup.do                 -       -         -       2011-02-10  58366a0082326724a0db961e16d99879
+
+    27521-0001-Setup.sas                -       -         -       2011-02-10  c43094b161c72a70187b92a0da5fe303
+
+    27521-0001-Setup.sps                -       -         -       2011-02-10  c64b682c8cde4c8c86e861b3f38b6fc2
+
+    27521-0001-Supplemental_syntax.do   -       -         -       2011-02-10  081be46b99ddbf99c2bcad50976a9f41
+
+    27521-0001-Supplemental_syntax.sas  -       -         -       2011-02-10  241dc132712ecbf0dc718e30c782be1b
+
+    27521-0001-User_guide.pdf           -       -         -       2011-02-10  ff5325612c4e27fda2c16e0dd381b2b0
+
